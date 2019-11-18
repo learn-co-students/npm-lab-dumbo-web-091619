@@ -1,0 +1,16 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "A color changing clock",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hello world",
+    "start": "react-scripts start"
+  },
+  "author": "stephen.rivera",
+  "license": "ISC"
+}

@@ -34,7 +34,7 @@ new code we write.
 
 ## Getting Started
 
-Before we can create a `package.json` file, we'll need an project and a project
+Before we can create a `package.json` file, we'll need a project and a project
 folder to contain all the files. For this code-along, we'll be building out a
 clock application that changes color every second.
 
@@ -57,7 +57,7 @@ way for now. Follow the prompts until the end and a fully constructed
 
 ### Add a Script
 
-In the process of creating the `package.json` file, you wre prompted to
+In the process of creating the `package.json` file, you were prompted to
 write a test script. Let's add a working script in to see how this works.
 
 Open the newly created `package.json` file and look for a section
