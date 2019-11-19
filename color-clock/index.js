@@ -1,6 +1,7 @@
-//No need to do any work here.  If package.json and the proper modules are installed, this will
+// No need to do any work here.  If package.json and the proper modules are installed, this will
 
-function displayTime() {
+
+function displayTime () {
   let clock = document.querySelector('#clock')
   clock.innerText = moment().format('MMMM Do YYYY, h:mm:ss a')
   setInterval(function() {
