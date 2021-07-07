@@ -1,0 +1,22 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "react lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R mocha-multi --reporter-options spec=-,json=.results.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabrielkq/npm-lab-dumbo-web-091619.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabrielkq/npm-lab-dumbo-web-091619/issues"
+  },
+  "homepage": "https://github.com/Gabrielkq/npm-lab-dumbo-web-091619#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
